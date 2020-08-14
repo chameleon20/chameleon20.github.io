@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Physics, Katholieke Universiteit Leuven, 2006 (<em>Cum Laude</em>em>)
+* M.S. in Physics, Katholieke Universiteit Leuven, 2006 (*Cum Laude*)
 * M.S. in Engineering Physics, University of California San Diego, 2012
 * Ph.D in Engineering Physics, University of California San Diego, 2016
 
