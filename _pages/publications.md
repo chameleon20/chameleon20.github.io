@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=evd0C28AAAAJ&hl=en)
+For a complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=evd0C28AAAAJ&hl=en) page.
