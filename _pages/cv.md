@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Physics, Katholieke Universiteit Leuven, 2006 (\emph{Cum Laude})
+* M.S. in Engineering Physics, University of California San Diego, 2012
+* Ph.D in Engineering Physics, University of California San Diego, 2016
 
 Work experience
 ======
