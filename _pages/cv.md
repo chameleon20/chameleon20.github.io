@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* Summer: Postdoctoral Scholar, Stanford University, September 2018-Present
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer: Postdoctoral Scholar, [Stanford University](https://www.stanford.edu), September 2018-Present
+  * Research topics: Predictive computational modeling and deep learning accelerated sensitivity analysis/uncertainty quantification of multiphysics systems including subsurface flows and energy storage systems
+  * Supervisor: Professor [Daniel M. Tartakovsky]{https://profiles.stanford.edu/daniel-tartakovsky}
 
 * Fall 2015: Research Assistant
   * Github University
