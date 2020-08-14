@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Summer: Postdoctoral Scholar, [Stanford University](https://www.stanford.edu), September 2018-Present
+* Postdoctoral Scholar, [Stanford University](https://www.stanford.edu), September 2018-Present
   * Research topics: Predictive computational modeling and deep learning accelerated sensitivity analysis/uncertainty quantification of multiphysics systems including subsurface flows and energy storage systems
-  * Supervisor: Professor [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
+  * Supervisor: Prof. [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
   * Affiliation: [Department of Energy Resources Engineering](https://earth.stanford.edu/ere)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Specialist I, [San Diego State University Research Foundation](https://www.foundation.sdsu.edu/), October 2016-July 2018
+  * Research topic: Modeling and efficient simulation of shocked particle-laden flows
+  * Supervisor: Prof. [Gustaaf B, Jacobs](http://attila.sdsu.edu/~jacobs/index.html)
+  * Affiliation: [Department of Aerospace Engineering](https://aerospace.sdsu.edu/)
   
 Skills
 ======
