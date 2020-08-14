@@ -27,6 +27,16 @@ Work experience
   * Supervisor: Prof. [Gustaaf B, Jacobs](http://attila.sdsu.edu/~jacobs/index.html)
   * Affiliation: [Department of Aerospace Engineering](https://aerospace.sdsu.edu/)
   
+* Graduate Student Researcher, [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/), August 2014-June 2015
+  * Research topic: Mesoscopic model selection through physics-based machine learning
+  * Supervisor: Dr. [Turab Lookman](https://www.linkedin.com/in/turab-lookman-31277b4)
+  * Affiliation: [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/), [University of California San Diego (UCSD)](https://ucsd.edu/) (internship at LANL was part of my PhD at UCSD) 
+
+* Graduate Student Researcher,[University of California San Diego (UCSD)](https://ucsd.edu/), September 2011-June 2014
+  * Research topic: Development of nonintrusive approaches for multiphysics problems with random noise
+  * Supervisor: Prof. [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
+  * Affiliation: [Department of Mechanical and Aerospace Engineering](https://mae.ucsd.edu/), [University of California San Diego (UCSD)](https://ucsd.edu/) 
+
 Skills
 ======
 * Skill 1
