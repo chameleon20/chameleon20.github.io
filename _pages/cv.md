@@ -39,12 +39,19 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* : Unix/Linux, C++, Python, Fortran, MATLAB, TensorFlow 2, COMSOL, basic HPC
+* Computing: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
+  * Programming languages: C++, Python, Fortran, MATLAB
+  * Software packages: COMSOL, Tensorflow 2
+  * Other: Unix/Linux, basic HPC
+* Numerical:
+  * Finite difference/volume
+  * Particle-in-cell, Eulerian-Lagrangian
+  * Monte Carlo simulation  
+* Written/oral/communication:
+  * Paper/funding proposal writing and peer review of articles
+  * Interdisciplinary teamwork, student supervision
+  * Project presentations at international scientific conferences
 
 Publications
 ======
