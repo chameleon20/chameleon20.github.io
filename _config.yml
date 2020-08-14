@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soren's personal website"
+title                    : "S&#248;ren Taverniers"
 title_separator          : "-"
-name                     : &name "Soren Taverniers"
+name                     : &name "S&#248;ren Taverniers"
 description              : &description "personal description"
 url                      : https://chameleon20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

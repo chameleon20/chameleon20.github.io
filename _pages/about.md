@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome message"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website, powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com)! 
+Hi,
+I'm S&#248;ren and this is my personal website, powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com)! 
 
 <!--- A data-driven personal website
 ======
