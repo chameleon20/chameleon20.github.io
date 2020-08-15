@@ -18,12 +18,6 @@ Significant experience in developing state-of-the-art numerical codes and machin
 
 ## Professional experience
 
-* Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
-* M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
-* M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
-
-## Work experience
-
 ### DEPARTMENT OF ENERGY RESOURCES ENGINEERING, STANFORD UNIVERSITY - Stanford, CA, USA
 
 * Position: **Postdoctoral Scholar**, September 2018-Present
