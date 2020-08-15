@@ -18,7 +18,7 @@ Significant experience in developing state-of-the-art numerical codes and machin
 
 ## Professional experience
 
-### DEPARTMENT OF ENERGY RESOURCES ENGINEERING, STANFORD UNIVERSITY - Stanford, CA, USA
+### DEPARTMENT OF ENERGY RESOURCES ENGINEERING, [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
 
 * Position: **Postdoctoral Scholar**, September 2018-Present
 * Duties: 
@@ -30,7 +30,7 @@ Significant experience in developing state-of-the-art numerical codes and machin
       S.A. and aimed at inventing, testing and deploying new UQ techniques that are more computationally efficient and yet as accurate as current exhaustive system realizations.
   * Design of a neural network with TensorFlow to accelerate sensitivity analysis and UQ studies of energy storage systems to aid in the design and testing of these devices.
      
-### AEROSPACE ENGINEERING DEPARTMENT, SAN DIEGO STATE UNIVERSITY - San Diego, CA, USA
+### [SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION](https://www.foundation.sdsu.edu/) - San Diego, CA, USA
 
 * Position: **Research Specialist I**, October 2016-July 2018
 * Duties: 
@@ -41,7 +41,7 @@ Significant experience in developing state-of-the-art numerical codes and machin
     * Sponsored by Air Force Office of Scientific Research (AFOSR) and aimed 
       at designing and implementing computational models capable of predicting the dynamics of process-scale, compressible particle-laden flow problems with uncertain parameters. 
 
-### THEORETICAL DIVISION, LOS ALAMOS NATIONAL LABORATORY (LANL) - Los Alamos, NM, USA
+### THEORETICAL DIVISION, [LOS ALAMOS NATIONAL LABORATORY (LANL)](https://www.lanl.gov/) - Los Alamos, NM, USA
 
 * Position: **Graduate Research Assistant**, August 2014 to June 2015
 * Duties: 
