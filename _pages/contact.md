@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Palo Alto, CA  
+Location: Palo Alto, CA  
 
-Email:  
+<!---Email:--->  
 
 LinkedIn: [sorent](https://www.linkedin.com/in/sorent/)     
 
