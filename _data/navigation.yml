@@ -9,11 +9,11 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
 
+  - title: "Research Portfolio"
+    url: /portfolio/ 
+
   - title: "Conference and Invited Talks"
     url: /talks/    
-    
-  - title: "Research Portfolio"
-    url: /portfolio/
         
   # - title: "Teaching"
   #   url: /teaching/    
