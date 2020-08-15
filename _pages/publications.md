@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 For a complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=evd0C28AAAAJ&hl=en) page.
