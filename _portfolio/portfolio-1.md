@@ -1,7 +1,7 @@
 ---
 title: "Multilevel Monte Carlo"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "I developed an accelerated multilevel Monte Carlo approach via stratification/Latin hypercube sampling for the estimation of cumulative distribution functions.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-I performed a project on multilevel Monte Carlo.
+
