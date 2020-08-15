@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
 * Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
 * M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
 
-# Work experience
+## Work experience
 
 * Postdoctoral Scholar, [Stanford University](https://www.stanford.edu), September 2018-Present
   * Research topics: Predictive computational modeling and deep learning accelerated sensitivity analysis/uncertainty quantification of multiphysics systems including subsurface flows and energy storage systems
@@ -37,7 +37,7 @@ redirect_from:
   * Supervisor: Prof. [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
   * Affiliation: [Department of Mechanical and Aerospace Engineering](http://maeweb.ucsd.edu/), [University of California San Diego (UCSD)](https://ucsd.edu/) 
 
-# Skills
+## Skills
 
 * : Unix/Linux, C++, Python, Fortran, MATLAB, TensorFlow 2, COMSOL, basic HPC
 * Computing: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
@@ -53,13 +53,13 @@ redirect_from:
   * Interdisciplinary teamwork, student supervision
   * Project presentations at international scientific conferences
 
-# Publications
+## Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
+## Talks
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}

@@ -16,15 +16,15 @@ Significant experience in developing state-of-the-art numerical codes and machin
 * Development of numerical solvers for a broad range of nonlinear systems with inherent uncertainty or random forcing.
 * Construction of innovative models for shocked particle-laden flows that enable process-scale, predictive simulations of high-speed applications ranging from dust explosions to engines for hypersonic propulsion systems.
 
-# Professional experience
+## Professional experience
 
 * Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
 * M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
 
-# Work experience
+## Work experience
 
-## DEPARTMENT OF ENERGY RESOURCES ENGINEERING, STANFORD UNIVERSITY - Stanford, CA, USA
+### DEPARTMENT OF ENERGY RESOURCES ENGINEERING, STANFORD UNIVERSITY - Stanford, CA, USA
 
 * Position: **Postdoctoral Scholar**, September 2018-Present
 * Duties: 
@@ -36,7 +36,7 @@ Significant experience in developing state-of-the-art numerical codes and machin
       S.A. and aimed at inventing, testing and deploying new UQ techniques that are more computationally efficient and yet as accurate as current exhaustive system realizations.
   * Design of a neural network with TensorFlow to accelerate sensitivity analysis and UQ studies of energy storage systems to aid in the design and testing of these devices.
      
-## AEROSPACE ENGINEERING DEPARTMENT, SAN DIEGO STATE UNIVERSITY - San Diego, CA, USA
+### AEROSPACE ENGINEERING DEPARTMENT, SAN DIEGO STATE UNIVERSITY - San Diego, CA, USA
 
 * Position: Research Specialist I, October 2016-July 2018
 * Duties: 
@@ -47,7 +47,7 @@ Significant experience in developing state-of-the-art numerical codes and machin
     * Sponsored by Air Force Office of Scientific Research (AFOSR) and aimed 
       at designing and implementing computational models capable of predicting the dynamics of process-scale, compressible particle-laden flow problems with uncertain parameters. 
 
-## THEORETICAL DIVISION, LOS ALAMOS NATIONAL LABORATORY (LANL) - Los Alamos, NM, USA
+### THEORETICAL DIVISION, LOS ALAMOS NATIONAL LABORATORY (LANL) - Los Alamos, NM, USA
 
 * Position: Graduate Research Assistant, August 2014 to June 2015
 * Duties: 
@@ -58,13 +58,13 @@ Significant experience in developing state-of-the-art numerical codes and machin
     * Design of a physics-informed ML technique for model selection in 
       materials science and beyond.
 
-# Education
+## Education
 
 * Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
 * M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
 
-# Selected Honors and Awards
+## Selected Honors and Awards
 
 * Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
   <br>University of California, San Diego, USA 
@@ -72,13 +72,13 @@ Significant experience in developing state-of-the-art numerical codes and machin
 * College of Engineering Dean's Fellowship, 2009-2010  
   <br>University of Michigan, Ann Arbor, USA
 
-# Publications
+## Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Skills
+## Skills
 
 * : Unix/Linux, C++, Python, Fortran, MATLAB, TensorFlow 2, COMSOL, basic HPC
 * Computing: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
