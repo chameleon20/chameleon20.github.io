@@ -24,11 +24,18 @@ Significant experience in developing state-of-the-art numerical codes and machin
 
 # Work experience
 
-* Postdoctoral Scholar, [Stanford University](https://www.stanford.edu), September 2018-Present
-  * Research topics: Predictive computational modeling and deep learning accelerated sensitivity analysis/uncertainty quantification of multiphysics systems including subsurface flows and energy storage systems
-  * Supervisor: Prof. [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
-  * Affiliation: [Department of Energy Resources Engineering](https://earth.stanford.edu/ere)
+## DEPARTMENT OF ENERGY RESOURCES ENGINEERING, STANFORD UNIVERSITY - Stanford, CA, USA
 
+* Position: **Postdoctoral Scholar**, September 2018-Present
+* Duties: 
+  * Development of enhanced multilevel Monte Carlo methods for estimating the 
+    cumulative distribution function of quantities of interest in multiphase flows e.g. in stochastic reservoir simulation: 
+    * Fusion of standard Monte Carlo with variance reduction techniques to 
+      speed up UQ simulations.
+    * Sponsored by Air Force Office of Scientific Research (AFOSR) and Total
+      S.A. and aimed at inventing, testing and deploying new UQ techniques that are more computationally efficient and yet as accurate as current exhaustive system realizations.
+  * Design of a neural network with TensorFlow to accelerate sensitivity analysis and UQ studies of energy storage systems to aid in the design and testing of these devices.
+     
 * Research Specialist I, [San Diego State University Research Foundation](https://www.foundation.sdsu.edu/), October 2016-July 2018
   * Research topic: Modeling and efficient simulation of shocked particle-laden flows
   * Supervisor: Prof. [Gustaaf B, Jacobs](http://attila.sdsu.edu/~jacobs/index.html)
