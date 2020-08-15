@@ -61,10 +61,10 @@ Significant experience in developing state-of-the-art numerical codes and machin
 ## Selected Honors and Awards
 
 * Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
-  <br>University of California, San Diego, USA 
+  <br>[University of California San Diego](https://ucsd.edu/)
 
 * College of Engineering Dean's Fellowship, 2009-2010  
-  <br>University of Michigan, Ann Arbor, USA
+  <br>[University of Michigan Ann Arbor](https://umich.edu/)
 
 ## Publications
 
