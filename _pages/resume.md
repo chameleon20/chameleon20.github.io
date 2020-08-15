@@ -36,20 +36,47 @@ Significant experience in developing state-of-the-art numerical codes and machin
       S.A. and aimed at inventing, testing and deploying new UQ techniques that are more computationally efficient and yet as accurate as current exhaustive system realizations.
   * Design of a neural network with TensorFlow to accelerate sensitivity analysis and UQ studies of energy storage systems to aid in the design and testing of these devices.
      
-* Research Specialist I, [San Diego State University Research Foundation](https://www.foundation.sdsu.edu/), October 2016-July 2018
-  * Research topic: Modeling and efficient simulation of shocked particle-laden flows
-  * Supervisor: Prof. [Gustaaf B, Jacobs](http://attila.sdsu.edu/~jacobs/index.html)
-  * Affiliation: [Department of Aerospace Engineering](https://aerospace.sdsu.edu/)
-  
-* Graduate Student Researcher, [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/), August 2014-June 2015
-  * Research topic: Mesoscopic model selection through physics-based machine learning
-  * Supervisor: Dr. [Turab Lookman](https://www.linkedin.com/in/turab-lookman-31277b4)
-  * Affiliation: [Department of Mechanical and Aerospace Engineering](http://maeweb.ucsd.edu/), [University of California San Diego (UCSD)](https://ucsd.edu/) (internship at LANL was part of my PhD at UCSD) 
+## AEROSPACE ENGINEERING DEPARTMENT, SAN DIEGO STATE UNIVERSITY - San Diego, CA, USA
 
-* Graduate Student Researcher,[University of California San Diego (UCSD)](https://ucsd.edu/), September 2011-June 2014
-  * Research topic: Development of nonintrusive approaches for multiphysics problems with random noise
-  * Supervisor: Prof. [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
-  * Affiliation: [Department of Mechanical and Aerospace Engineering](http://maeweb.ucsd.edu/), [University of California San Diego (UCSD)](https://ucsd.edu/) 
+* Position: Research Specialist I, October 2016-July 2018
+* Duties: 
+  * Development of transformative Eulerian-Lagrangian methods for simulation 
+    of particle-laden flows in high-speed engineering applications:
+    * Design and validation of Cloud-In-Cell models with enhanced accuracy and efficiency compared to the current state of the art for simulation of a particle cloud interacting with a shocked carrier flow.
+    * Multi-institution collaborative effort aimed at designing a general multiscale framework for modeling multimaterial dynamics.
+    * Sponsored by Air Force Office of Scientific Research (AFOSR) and aimed 
+      at designing and implementing computational models capable of predicting the dynamics of process-scale, compressible particle-laden flow problems with uncertain parameters. 
+
+## THEORETICAL DIVISION, LOS ALAMOS NATIONAL LABORATORY (LANL) - Los Alamos, NM, USA
+
+* Position: Graduate Research Assistant, August 2014 to June 2015
+* Duties: 
+  * Development of an information-directed approach for materials discovery 
+    and design:
+    * Lab-Directed Research and Development (LDRD) effort (>$1M) aimed at 
+      demonstrating the capability to accelerate materials discovery. 
+    * Design of a physics-informed ML technique for model selection in 
+      materials science and beyond.
+
+# Education
+
+* Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
+* M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
+* M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
+
+# Selected Honors and Awards
+
+* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
+  <br>University of California, San Diego, USA 
+
+* College of Engineering Dean's Fellowship, 2009-2010  
+  <br>University of Michigan, Ann Arbor, USA
+
+# Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 # Skills
 
