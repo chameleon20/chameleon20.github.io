@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Academic Curriculum Vitae"
-permalink: /cv/
+title: "Industry Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+Significant experience in developing state-of-the-art numerical codes and machine learning (ML) / uncertainty quantification (UQ) tools
+
+* Development of neural network-based surrogate models and physics-informed ML approaches for accelerating materials discovery and design of energy storage devices such as Li-Ion batteries and supercapacitors.
+* Design and implementation of novel Monte Carlo-based solvers to accelerate predictive modeling/UQ for multiphase flows in reactive granular media and subsurface phenomena.
+* Development of numerical solvers for a broad range of nonlinear systems with inherent uncertainty or random forcing.
+* Construction of innovative models for shocked particle-laden flows that enable process-scale, predictive simulations of high-speed applications ranging from dust explosions to engines for hypersonic propulsion systems.
+
+# Professional experience
 
 * Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
@@ -52,25 +59,3 @@ redirect_from:
   * Paper/funding proposal writing and peer review of articles
   * Interdisciplinary teamwork, student supervision
   * Project presentations at international scientific conferences
-
-# Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-# Talks
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-<!---Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams --->
