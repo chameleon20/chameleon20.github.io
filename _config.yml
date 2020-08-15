@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S&#248;ren Taverniers"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "S&#248;ren Taverniers"
 description              : &description "personal description"
