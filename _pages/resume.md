@@ -32,7 +32,7 @@ Significant experience in developing state-of-the-art numerical codes and machin
      
 ### AEROSPACE ENGINEERING DEPARTMENT, SAN DIEGO STATE UNIVERSITY - San Diego, CA, USA
 
-* Position: Research Specialist I, October 2016-July 2018
+* Position: **Research Specialist I**, October 2016-July 2018
 * Duties: 
   * Development of transformative Eulerian-Lagrangian methods for simulation 
     of particle-laden flows in high-speed engineering applications:
@@ -43,7 +43,7 @@ Significant experience in developing state-of-the-art numerical codes and machin
 
 ### THEORETICAL DIVISION, LOS ALAMOS NATIONAL LABORATORY (LANL) - Los Alamos, NM, USA
 
-* Position: Graduate Research Assistant, August 2014 to June 2015
+* Position: **Graduate Research Assistant**, August 2014 to June 2015
 * Duties: 
   * Development of an information-directed approach for materials discovery 
     and design:
@@ -74,16 +74,15 @@ Significant experience in developing state-of-the-art numerical codes and machin
 
 ## Skills
 
-* : Unix/Linux, C++, Python, Fortran, MATLAB, TensorFlow 2, COMSOL, basic HPC
-* Computing: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
+* **Computing**: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
   * Programming languages: C++, Python, Fortran, MATLAB
   * Software packages: COMSOL, Tensorflow 2
   * Other: Unix/Linux, basic HPC
-* Numerical:
+* **Numerical**:
   * Finite difference/volume
   * Particle-in-cell, Eulerian-Lagrangian
   * Monte Carlo simulation  
-* Written/oral/communication:
+* **Written/oral/communication**:
   * Paper/funding proposal writing and peer review of articles
   * Interdisciplinary teamwork, student supervision
   * Project presentations at international scientific conferences
