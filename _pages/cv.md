@@ -63,6 +63,29 @@ redirect_from:
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+## Selected Honors and Awards
+
+* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
+  <br>University of California, San Diego, USA 
+
+* College of Engineering Dean's Fellowship, 2009-2010  
+  <br>University of Michigan, Ann Arbor, USA
+
+## Skills
+
+* **Computing**: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
+  * Programming languages: C++, Python, Fortran, MATLAB
+  * Software packages: COMSOL, Tensorflow 2
+  * Other: Unix/Linux, basic HPC
+* **Numerical**:
+  * Finite difference/volume
+  * Particle-in-cell, Eulerian-Lagrangian
+  * Monte Carlo simulation  
+* **Written/oral/communication**:
+  * Paper/funding proposal writing and peer review of articles
+  * Interdisciplinary teamwork, student supervision
+  * Project presentations at international scientific conferences  
   
 <!---Teaching
 ======
