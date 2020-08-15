@@ -18,7 +18,7 @@ Significant experience in developing state-of-the-art numerical codes and machin
 
 ## Professional experience
 
-### DEPARTMENT OF ENERGY RESOURCES ENGINEERING, [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
+### [DEPARTMENT OF ENERGY RESOURCES ENGINEERING](https://earth.stanford.edu/ere), [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
 
 * Position: **Postdoctoral Scholar**, September 2018-Present
 * Duties: 
