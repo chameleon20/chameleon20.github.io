@@ -4,6 +4,8 @@ excerpt: "I developed an accelerated multilevel Monte Carlo approach via stratif
 collection: portfolio
 ---
 
-<img src='/images/smooth.png'> <br/><img src='/images/lnK.png'>
+<img src='/images/smooth.png'>  
+
+<img src='/images/lnK.png'>
 
 
