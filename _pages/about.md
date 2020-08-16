@@ -11,7 +11,7 @@ redirect_from:
 Hi,
 I'm S&#248;ren and this is my personal website, powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com)! 
 
-<img src='/images/Universe.png'>  
+<img src='/images/Universe.jpg'>  
 
 <!--- A data-driven personal website
 ======
