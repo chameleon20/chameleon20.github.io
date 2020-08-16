@@ -22,8 +22,8 @@ Significant experience in **developing state-of-the-art numerical codes** and **
 * Duties: 
   * Development of **enhanced multilevel Monte Carlo** methods for estimating the 
     cumulative distribution function of quantities of interest in **multiphase flows** e.g. in stochastic reservoir simulation: 
-    * Fusion of standard Monte Carlo with variance reduction techniques to 
-      speed up UQ simulations.
+    * Fusion of standard Monte Carlo with **variance reduction** techniques to 
+      **speed up UQ** simulations.
     * Sponsored by Air Force Office of Scientific Research (AFOSR) and Total
       S.A. and aimed at **inventing, testing and deploying new UQ techniques** that are more computationally efficient and yet as accurate as current exhaustive system realizations.
   * Design of a **neural network** with **TensorFlow 2** to accelerate **sensitivity analysis** and **UQ** studies of **energy storage systems** to aid in the **design** and testing of these devices.
