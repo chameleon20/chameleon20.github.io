@@ -8,6 +8,23 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 ## 2020
 
+<!---[Accelerating Design under Uncertainty:  A Mutual Information approach enabled by Explainable Deep Learning]  
+
+Preprint available on arXiv, article submitted to SIAM Journal on Mathematics of Data Science (SIMODS).
+
+E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.  ---> 
+
+[GINNs: Graph-Informed Neural Networks for Multiscale Physics](https://arxiv.org/abs/2006.14807)
+
+Preprint available on arXiv, article submitted to Journal of Computational Physics.
+
+E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.  
+
+[Accelerated multilevel Monte Carlo with kernel‐based smoothing and Latinized stratification](https://doi.org/10.1029/2019WR026984)  
+Article in press.
+
+<b>S. Taverniers</b>, S.B.M. Bosma, and D.M. Tartakovsky.   
+
 [Estimation of distributions via multilevel Monte Carlo with stratified sampling](https://doi.org/10.1016/j.jcp.2020.109572)  
 
 <b>S. Taverniers</b> and D.M. Tartakovsky.     

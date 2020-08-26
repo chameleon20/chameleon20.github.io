@@ -21,7 +21,7 @@ author_profile: true
 * College of Engineering Dean's Fellowship, 2009-2010  
   <br>[University of Michigan Ann Arbor](https://umich.edu/)
 
-## Work experience in academia and government labs
+## Work Experience in Academia and Government Labs
 
 * **Postdoctoral Scholar**, [Stanford University](https://www.stanford.edu), September 2018-Present
   * Research topics: Predictive computational modeling and deep learning accelerated sensitivity analysis/uncertainty quantification of multiphysics systems including subsurface flows and energy storage systems

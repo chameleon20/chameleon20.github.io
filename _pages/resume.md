@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Main accomplishments
+## Main Accomplishments
 
 Significant experience in developing **numerical codes** for a broad array of
 **physics/engineering problems** and **deep learning (DL) / uncertainty quantification (UQ) tools**
@@ -18,7 +18,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 * Development of numerical solvers for a wide range of **nonlinear systems with inherent uncertainty or random forcing**.
 * Construction of **innovative models for shocked particle-laden flows** that enable process-scale, predictive simulations of high-speed applications ranging from dust explosions to engines for hypersonic propulsion systems.
 
-## Current employment
+## Current Employment
 
 ### [DEPARTMENT OF ENERGY RESOURCES ENGINEERING](https://earth.stanford.edu/ere), [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
 
@@ -31,7 +31,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
       S.A. and aimed at **inventing, testing and deploying new UQ techniques** that are more computationally efficient and yet as accurate as current exhaustive system realizations.
   * Design of a **DNN** with **TensorFlow 2** to accelerate **sensitivity analysis** and **UQ** studies of energy storage systems to enable **rapid prototyping** in the design of these devices.
      
-## Past employment
+## Past Employment
 
 ### [SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION](https://www.foundation.sdsu.edu/) - San Diego, CA, USA
 
