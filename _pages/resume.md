@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Significant experience in **developing state-of-the-art numerical codes** and **machine learning (ML) / uncertainty quantification (UQ) tools**
+Significant experience in developing **numerical codes for a broad array of
+physics/engineering problems** and **machine learning (ML) / uncertainty quantification (UQ) tools**
 
 * Development of **neural network-based surrogate models** and **physics-informed ML** approaches for accelerating materials discovery and design of energy storage devices such as Li-Ion batteries and supercapacitors.
 * Design and implementation of **novel Monte Carlo-based solvers** to accelerate predictive modeling/UQ for multiphase flows in reactive granular media and subsurface phenomena.
