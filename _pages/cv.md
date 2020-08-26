@@ -13,7 +13,7 @@ author_profile: true
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
 * M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
 
-## Work experience
+## Work experience in academia and government labs
 
 * **Postdoctoral Scholar**, [Stanford University](https://www.stanford.edu), September 2018-Present
   * Research topics: Predictive computational modeling and deep learning accelerated sensitivity analysis/uncertainty quantification of multiphysics systems including subsurface flows and energy storage systems
@@ -35,21 +35,6 @@ author_profile: true
   * Supervisor: Prof. [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
   * Affiliation: [Department of Mechanical and Aerospace Engineering](http://maeweb.ucsd.edu/), [University of California San Diego (UCSD)](https://ucsd.edu/) 
 
-## Skills
-
-* **Computing**: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
-  * Programming languages: C++, Python, Fortran, MATLAB
-  * Software packages: COMSOL, Tensorflow 2
-  * Other: Unix/Linux, basic HPC
-* **Numerical**:
-  * Finite difference/volume
-  * Particle-in-cell, Eulerian-Lagrangian
-  * Monte Carlo simulation  
-* **Written/oral/communication**:
-  * Paper/funding proposal writing and peer review of articles
-  * Interdisciplinary teamwork, student supervision
-  * Project presentations at international scientific conferences
-
 ## Publications
 
   <ul>{% for post in site.publications %}
@@ -70,21 +55,6 @@ author_profile: true
 * College of Engineering Dean's Fellowship, 2009-2010  
   <br>[University of Michigan Ann Arbor](https://umich.edu/)
 
-## Skills
-
-* **Computing**: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
-  * Programming languages: C++, Python, Fortran, MATLAB
-  * Software packages: COMSOL, Tensorflow 2
-  * Other: Unix/Linux, basic HPC
-* **Numerical**:
-  * Finite difference/volume
-  * Particle-in-cell, Eulerian-Lagrangian
-  * Monte Carlo simulation  
-* **Written/oral/communication**:
-  * Paper/funding proposal writing and peer review of articles
-  * Interdisciplinary teamwork, student supervision
-  * Project presentations at international scientific conferences  
-  
 <!---Teaching
 ======
   <ul>{% for post in site.teaching %}

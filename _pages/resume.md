@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Industry Resume"
+title: 
 permalink: /resume/
 author_profile: true
 ---
 
 {% include base_path %}
+
+## Main accomplishments
 
 Significant experience in developing **numerical codes** for a broad array of
 **physics/engineering problems** and **deep learning (DL) / uncertainty quantification (UQ) tools**
@@ -16,7 +18,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 * Development of numerical solvers for a wide range of **nonlinear systems with inherent uncertainty or random forcing**.
 * Construction of **innovative models for shocked particle-laden flows** that enable process-scale, predictive simulations of high-speed applications ranging from dust explosions to engines for hypersonic propulsion systems.
 
-## Professional experience
+## Current employment
 
 ### [DEPARTMENT OF ENERGY RESOURCES ENGINEERING](https://earth.stanford.edu/ere), [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
 
@@ -29,6 +31,8 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
       S.A. and aimed at **inventing, testing and deploying new UQ techniques** that are more computationally efficient and yet as accurate as current exhaustive system realizations.
   * Design of a **DNN** with **TensorFlow 2** to accelerate **sensitivity analysis** and **UQ** studies of energy storage systems to enable **rapid prototyping** in the design of these devices.
      
+## Past employment
+
 ### [SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION](https://www.foundation.sdsu.edu/) - San Diego, CA, USA
 
 * Position: **Research Specialist I**, October 2016-July 2018
@@ -49,12 +53,6 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
     * Design of a **physics-informed ML** technique for **model selection** in 
       materials science and beyond.
 
-## Education
-
-* Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
-* M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
-* M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
-
 ## Skills
 
 * **Computing**: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
@@ -69,19 +67,5 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
   * Paper/funding proposal writing and peer review of articles
   * Interdisciplinary teamwork, student supervision
   * Project presentations at international scientific conferences
-
-## Selected Honors and Awards
-
-* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
-  <br>[University of California San Diego](https://ucsd.edu/)
-
-* College of Engineering Dean's Fellowship, 2009-2010  
-  <br>[University of Michigan Ann Arbor](https://umich.edu/)
-
-## Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 
