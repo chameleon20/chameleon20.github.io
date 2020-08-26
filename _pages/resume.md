@@ -55,14 +55,17 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 
 ## Skills
 
-* **Computing**: Finite difference/volume, particle-in-cell, Eulerian-Lagrangian, Monte Carlo simulation  
+* **Computing**: 
   * Programming languages: C++, Python, Fortran, MATLAB
-  * Software packages: COMSOL, Tensorflow 2
-  * Other: Unix/Linux, basic HPC
-* **Numerical**:
+  * Unix/Linux, basic HPC
+* **Numerical and statistical methods/software packages**:
   * Finite difference/volume
   * Particle-in-cell, Eulerian-Lagrangian
-  * Monte Carlo simulation  
+  * Monte Carlo simulation, stochastic collocation
+  * COMSOL (multiphysics software)
+* **Deep learning**:
+  * Software: Google's Tensorflow 2
+  * Basic knowledge of the main types of neural networks (NNs) via self-study of online courses (Stanford CS231n (Convolutional NNs) and CS221 (Artifical Intelligence), Coursera (Deep Learning Specialization))
 * **Written/oral/communication**:
   * Paper/funding proposal writing and peer review of articles
   * Interdisciplinary teamwork, student supervision
