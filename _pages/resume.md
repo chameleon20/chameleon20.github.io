@@ -22,7 +22,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 
 ### [DEPARTMENT OF ENERGY RESOURCES ENGINEERING](https://earth.stanford.edu/ere), [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
 
-* Position: **Postdoctoral Scholar**, September 2018-September 2020
+* Position: **Postdoctoral Scholar**, September 2018-Present
 * Duties: 
   * Development of **enhanced multilevel Monte Carlo** methods for accelerating the estimation of **cumulative distribution functions** of quantities of interest in **multiphase flows** e.g. in stochastic reservoir simulation: 
     * Fusion of standard Monte Carlo with **variance reduction** techniques to 
