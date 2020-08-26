@@ -33,8 +33,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 
 * Position: **Research Specialist I**, October 2016-July 2018
 * Duties: 
-  * Development of transformative **Eulerian-Lagrangian** methods for simulation 
-    of **particle-laden flows** in high-speed engineering applications:
+  * Development of transformative **Eulerian-Lagrangian** methods for simulation of **particle-laden flows** in high-speed engineering applications:
     * Design and validation of **Cloud-In-Cell** models with enhanced accuracy and efficiency compared to the current state of the art for simulation of a particle cloud interacting with a shocked carrier flow.
     * Multi-institution collaborative effort aimed at designing a general **multiscale framework** for modeling **multimaterial dynamics**.
     * Sponsored by Air Force Office of Scientific Research (AFOSR) and aimed 
@@ -44,8 +43,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 
 * Position: **Graduate Research Assistant**, August 2014 to June 2015
 * Duties: 
-  * Development of an **information-directed** approach for materials discovery 
-    and design:
+  * Development of an **information-directed** approach for materials discovery and design:
     * Lab-Directed Research and Development (LDRD) effort (>$1M) aimed at 
       demonstrating the capability to **accelerate materials discovery**. 
     * Design of a **physics-informed ML** technique for **model selection** in 
@@ -56,20 +54,6 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 * Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
 * M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
-
-## Selected Honors and Awards
-
-* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
-  <br>[University of California San Diego](https://ucsd.edu/)
-
-* College of Engineering Dean's Fellowship, 2009-2010  
-  <br>[University of Michigan Ann Arbor](https://umich.edu/)
-
-## Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 ## Skills
 
@@ -85,3 +69,19 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
   * Paper/funding proposal writing and peer review of articles
   * Interdisciplinary teamwork, student supervision
   * Project presentations at international scientific conferences
+
+## Selected Honors and Awards
+
+* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
+  <br>[University of California San Diego](https://ucsd.edu/)
+
+* College of Engineering Dean's Fellowship, 2009-2010  
+  <br>[University of Michigan Ann Arbor](https://umich.edu/)
+
+## Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
