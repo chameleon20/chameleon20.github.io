@@ -20,15 +20,14 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 
 ### [DEPARTMENT OF ENERGY RESOURCES ENGINEERING](https://earth.stanford.edu/ere), [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
 
-* Position: **Postdoctoral Scholar**, September 2018-Present
+* Position: **Postdoctoral Scholar**, September 2018-September 2020
 * Duties: 
-  * Development of **enhanced multilevel Monte Carlo** methods for estimating the 
-    cumulative distribution function of quantities of interest in **multiphase flows** e.g. in stochastic reservoir simulation: 
+  * Development of **enhanced multilevel Monte Carlo** methods for accelerating the estimation of **cumulative distribution functions** of quantities of interest in **multiphase flows** e.g. in stochastic reservoir simulation: 
     * Fusion of standard Monte Carlo with **variance reduction** techniques to 
       **speed up UQ** simulations.
     * Sponsored by Air Force Office of Scientific Research (AFOSR) and Total
       S.A. and aimed at **inventing, testing and deploying new UQ techniques** that are more computationally efficient and yet as accurate as current exhaustive system realizations.
-  * Design of a **neural network** with **TensorFlow 2** to accelerate **sensitivity analysis** and **UQ** studies of **energy storage systems** to aid in the **design** and testing of these devices.
+  * Design of a **DNN** with **TensorFlow 2** to accelerate **sensitivity analysis** and **UQ** studies of energy storage systems to enable **rapid prototyping** in the design of these devices.
      
 ### [SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION](https://www.foundation.sdsu.edu/) - San Diego, CA, USA
 
