@@ -11,7 +11,7 @@ redirect_from:
 Hi,
 I'm S&#248;ren and this is my personal website, powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com)! 
 
-<img src='/images/Universe.jpg'>(https://map.gsfc.nasa.gov/) 
+[<img src='/images/Universe.jpg'>](https://map.gsfc.nasa.gov/) 
 
 Some deep questions:  
 What happened before the Big Bang?  
