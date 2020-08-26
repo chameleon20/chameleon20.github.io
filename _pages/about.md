@@ -13,7 +13,9 @@ I'm S&#248;ren and this is my personal website, powered by the [academicpages te
 
 <img src='/images/Universe.jpg'>  
 
-Some deep questions: What happened before the Big Bang? When did time start?
+Some deep questions:  
+What happened before the Big Bang?  
+When did time start?
 
 <!--- A data-driven personal website
 ======
