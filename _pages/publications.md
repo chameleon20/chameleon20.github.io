@@ -21,6 +21,7 @@ Preprint available on arXiv, article submitted to Journal of Computational Physi
 E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.  
 
 [Accelerated multilevel Monte Carlo with kernel‐based smoothing and Latinized stratification](https://doi.org/10.1029/2019WR026984)  
+  
 Article in press.
 
 <b>S. Taverniers</b>, S.B.M. Bosma, and D.M. Tartakovsky.   
