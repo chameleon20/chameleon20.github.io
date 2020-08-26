@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Significant experience in developing **numerical codes for a broad array of
-physics/engineering problems** and **deep learning (DL) / uncertainty quantification (UQ) tools**
+Significant experience in developing **numerical codes** for a broad array of
+**physics/engineering problems** and **deep learning (DL) / uncertainty quantification (UQ) tools**
 
 * Construction of **surrogate models** based on **physics-informed machine learning** and **deep neural networks (DNNs)** for accelerating the discovery 
 of novel materials and the design of energy storage devices such as Li-Ion batteries and supercapacitors.
