@@ -13,6 +13,14 @@ author_profile: true
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
 * M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
 
+## Selected Honors and Awards
+
+* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
+  <br>[University of California San Diego](https://ucsd.edu/)
+
+* College of Engineering Dean's Fellowship, 2009-2010  
+  <br>[University of Michigan Ann Arbor](https://umich.edu/)
+
 ## Work experience in academia and government labs
 
 * **Postdoctoral Scholar**, [Stanford University](https://www.stanford.edu), September 2018-Present
@@ -46,14 +54,6 @@ author_profile: true
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-## Selected Honors and Awards
-
-* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
-  <br>[University of California San Diego](https://ucsd.edu/)
-
-* College of Engineering Dean's Fellowship, 2009-2010  
-  <br>[University of Michigan Ann Arbor](https://umich.edu/)
 
 <!---Teaching
 ======
