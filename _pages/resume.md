@@ -43,7 +43,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
     * Sponsored by Air Force Office of Scientific Research (AFOSR) and aimed 
       at designing and implementing computational models capable of **predicting** the dynamics of **process-scale, compressible particle-laden flow** problems with **uncertain parameters**. 
 
-### THEORETICAL DIVISION, [LOS ALAMOS NATIONAL LABORATORY (LANL)](https://www.lanl.gov/) - Los Alamos, NM, USA
+### [THEORETICAL DIVISION](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php), [LOS ALAMOS NATIONAL LABORATORY (LANL)](https://www.lanl.gov/) - Los Alamos, NM, USA
 
 * Position: **Graduate Research Assistant**, August 2014 to June 2015
 * Duties: 
