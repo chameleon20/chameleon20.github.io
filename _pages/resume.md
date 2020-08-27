@@ -57,7 +57,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 
 * **Computing**: 
   * Programming languages: C++, Python, Fortran, MATLAB, Markdown
-  * Unix/Linux, basic HPC
+  * Unix/Linux, basic HPC, Sublime Text
 * **Numerical and Statistical Methods/Software Packages**:
   * Finite difference/volume
   * Particle-in-cell, Eulerian-Lagrangian
