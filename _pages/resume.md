@@ -64,7 +64,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
   * Monte Carlo simulation, stochastic collocation
   * COMSOL (multiphysics software)
 * **Deep Learning**:
-  * Software: Google's Tensorflow 2
+  * Software: Google's Tensorflow 2, Numpy
   * Basic knowledge of the main types of neural networks (NNs) via self-study of online courses (Stanford CS231n (Convolutional NNs) and CS221 (Artifical Intelligence), Coursera (Deep Learning Specialization))
 * **Written and Oral Communication**:
   * Paper/funding proposal writing and peer review of articles
