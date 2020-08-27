@@ -66,7 +66,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
   * Subsurface flows
   * Statistical mechanics
   * Monte Carlo simulation, stochastic collocation
-  * Applied probability
+  * Applied probability and Uncertainty quantification
   * COMSOL (multiphysics software)
 * **Deep Learning**:
   * Software: Google's Tensorflow 2, NumPy
