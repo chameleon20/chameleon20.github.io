@@ -9,7 +9,7 @@ author_profile: true
 
 ## Education
 
-* Ph.D in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
+* Ph.D. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2016 (*GPA: 4.0/4.0*)
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
 * M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
 
