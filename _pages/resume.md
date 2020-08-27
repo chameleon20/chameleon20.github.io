@@ -26,10 +26,10 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 * Duties: 
   * Development of **enhanced multilevel Monte Carlo** methods for accelerating the estimation of **cumulative distribution functions** of quantities of interest in **multiphase flows** e.g. in stochastic reservoir simulation: 
     * Fusion of standard Monte Carlo with **variance reduction** techniques to 
-      **speed up UQ** simulations.
+      **speed up UQ**.
     * Sponsored by Air Force Office of Scientific Research (AFOSR) and Total
       S.A. and aimed at **inventing, testing and deploying new UQ techniques** that are more computationally efficient and yet as accurate as current exhaustive system realizations.
-  * Design of a **DNN** with **TensorFlow 2** to accelerate **sensitivity analysis** and **UQ** studies of energy storage systems to enable **rapid prototyping** in the design of these devices.
+  * Design of a **DNN** with **TensorFlow 2** to accelerate **sensitivity analysis** and **UQ** of energy storage systems to enable **rapid design prototyping**.
      
 ## Past Employment
 
