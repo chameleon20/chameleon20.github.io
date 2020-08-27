@@ -56,7 +56,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 ## Skills
 
 * **Computing**: 
-  * Programming languages: C++, Python, Fortran, MATLAB
+  * Programming languages: C++, Python, Fortran, MATLAB, Markdown
   * Unix/Linux, basic HPC
 * **Numerical and Statistical Methods/Software Packages**:
   * Finite difference/volume
