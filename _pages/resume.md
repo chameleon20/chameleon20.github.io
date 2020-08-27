@@ -71,6 +71,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 * **Deep Learning**:
   * Software: Google's Tensorflow 2, NumPy
   * Basic knowledge of the main types of neural networks (NNs) via self-study of online courses (Stanford CS231n (Convolutional NNs) and CS221 (Artifical Intelligence), Coursera (Deep Learning Specialization))
+  * Physics-informed machine learning research
 * **Written/Oral Communication and Leadership**:
   * Paper/funding proposal writing and peer review of articles
   * Interdisciplinary teamwork, student research supervision
