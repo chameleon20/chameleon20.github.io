@@ -62,6 +62,7 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
   * Finite difference/volume
   * Particle-in-cell, Eulerian-Lagrangian
   * Monte Carlo simulation, stochastic collocation
+  * Applied probability
   * COMSOL (multiphysics software)
 * **Deep Learning**:
   * Software: Google's Tensorflow 2, Numpy
