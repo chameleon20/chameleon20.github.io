@@ -10,7 +10,7 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 <!---[Accelerating Design under Uncertainty:  A Mutual Information approach enabled by Explainable Deep Learning]  
 
-Preprint available on arXiv, article submitted to SIAM Journal on Mathematics of Data Science (SIMODS).
+Preprint available on arXiv, article submitted to Computer Methods in Applied Mechanics and Engineering.
 
 E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.  ---> 
 
@@ -21,8 +21,6 @@ Preprint available on arXiv, article submitted to Journal of Computational Physi
 E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.  
 
 [Accelerated multilevel Monte Carlo with kernel‐based smoothing and Latinized stratification](https://doi.org/10.1029/2019WR026984)  
-  
-Article in press.
 
 <b>S. Taverniers</b>, S.B.M. Bosma, and D.M. Tartakovsky.   
 
