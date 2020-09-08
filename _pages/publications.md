@@ -8,7 +8,7 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 ## 2020
 
-<!---[Accelerating Design under Uncertainty:  A Mutual Information approach enabled by Explainable Deep Learning]  
+<!---[Mutual Information for Explainable Deep Learning of Multiscale Systems]  
 
 Preprint available on arXiv, article submitted to Computer Methods in Applied Mechanics and Engineering.
 
