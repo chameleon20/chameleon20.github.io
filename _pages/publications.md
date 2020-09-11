@@ -8,11 +8,11 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 ## 2020
 
-<!---[Mutual Information for Explainable Deep Learning of Multiscale Systems]  
+[Mutual Information for Explainable Deep Learning of Multiscale Systems]  
 
-Preprint available on arXiv, article submitted to Computer Methods in Applied Mechanics and Engineering.
+Preprint available on arXiv, article submitted to Journal of Computational Physics.
 
-E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.  ---> 
+<b>S. Taverniers</b>, E.J. Hall, M.A. Katsoulakis, and D.M. Tartakovsky.   
 
 [GINNs: Graph-Informed Neural Networks for Multiscale Physics](https://arxiv.org/abs/2006.14807)
 
