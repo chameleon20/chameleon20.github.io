@@ -20,6 +20,12 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 
 ## Current Employment
 
+### [PARC, A XEROX COMPANY](https://www.parc.com) - Palo Alto, CA, USA
+
+* Position: **Member of Research Staff**, October 2020-Present
+
+## Past Employment
+
 ### [DEPARTMENT OF ENERGY RESOURCES ENGINEERING](https://earth.stanford.edu/ere), [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
 
 * Position: **Postdoctoral Scholar**, September 2018-Present
@@ -31,8 +37,6 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
       S.A. and aimed at **inventing, testing and deploying new UQ techniques** that are more computationally efficient and yet as accurate as current exhaustive system realizations.
   * Design of a **DNN** with **TensorFlow 2** to accelerate **sensitivity analysis** and **UQ** of energy storage systems to enable **rapid design prototyping**.
      
-## Past Employment
-
 ### [SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION](https://www.foundation.sdsu.edu/) - San Diego, CA, USA
 
 * Position: **Research Specialist I**, October 2016-July 2018

@@ -21,6 +21,10 @@ author_profile: true
 * College of Engineering Dean's Fellowship, 2009-2010  
   <br>[University of Michigan Ann Arbor](https://umich.edu/)
 
+## Work Experience in Industry
+
+* **Member of Research Staff**, [PARC, a Xerox Company](https://www.parc.com), October 2020-Present
+  
 ## Work Experience in Academia and Government Labs
 
 * **Postdoctoral Scholar**, [Stanford University](https://www.stanford.edu), September 2018-Present
