@@ -8,7 +8,7 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 ## 2021
 
-[GINNs: Graph-Informed Neural Networks for Multiscale Physics](https://doi.10.1016/j.jcp.2021.110192)
+[GINNs: Graph-Informed Neural Networks for Multiscale Physics](https://doi.org/10.1016/j.jcp.2021.110192)
 
 E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.  
 
