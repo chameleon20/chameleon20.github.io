@@ -4,4 +4,4 @@ excerpt: "I worked on developing DNN approaches to accelerate sensitivity studie
 collection: portfolio
 ---
 
-<img src='/images/network.pdf'>  
+<img src='/images/GINN.png'>  
