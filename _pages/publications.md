@@ -8,19 +8,17 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 ## 2021
 
+[Mutual Information for explainable deep learning of multiscale systems](https://doi.org/10.1016/j.jcp.2021.110551)
+
+<b>S. Taverniers</b>, E.J. Hall, M.A. Katsoulakis, and D.M. Tartakovsky.  
+
 [GINNs: Graph-Informed Neural Networks for Multiscale Physics](https://doi.org/10.1016/j.jcp.2021.110192)
 
 E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.  
 
 ## 2020
 
-[Mutual Information for Explainable Deep Learning of Multiscale Systems]  
-
-Preprint available on arXiv, article submitted to Journal of Computational Physics.
-
-<b>S. Taverniers</b>, E.J. Hall, M.A. Katsoulakis, and D.M. Tartakovsky.   
-
-[Accelerated multilevel Monte Carlo with kernel‐based smoothing and Latinized stratification](https://doi.org/10.1029/2019WR026984)  
+ [Accelerated multilevel Monte Carlo with kernel‐based smoothing and Latinized stratification](https://doi.org/10.1029/2019WR026984)  
 
 <b>S. Taverniers</b>, S.B.M. Bosma, and D.M. Tartakovsky.   
 
