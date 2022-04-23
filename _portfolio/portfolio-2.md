@@ -1,7 +1,7 @@
 ---
 title: "Global sensitivity analysis and UQ for design accelerated by Deep Neural Networks (DNNs)"
 excerpt: "I worked on developing DNN approaches to accelerate mutual information-based sensitivity studies and uncertainty quantification for design of multiscale systems.<br/><img src='/images/NN.png'>"
-date: 2022-01-01
+date: 2021-12-01
 collection: portfolio
 ---
 
