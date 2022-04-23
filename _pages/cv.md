@@ -15,6 +15,12 @@ author_profile: true
 
 ## Selected Honors and Awards
 
+* Intelligent Systems Lab (ISL) Individual Award, 2022
+  <br>[PARC, a Xerox Company](https://www.parc.com/)   
+
+* Intelligent Systems Lab (ISL) Team Award, 2022
+  <br>[PARC, a Xerox Company](https://www.parc.com/)   
+
 * Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
   <br>[University of California San Diego](https://ucsd.edu/)
 
@@ -27,7 +33,7 @@ author_profile: true
   
 ## Work Experience in Academia and Government Labs
 
-* **Postdoctoral Scholar**, [Stanford University](https://www.stanford.edu), September 2018-Present
+* **Postdoctoral Scholar**, [Stanford University](https://www.stanford.edu), September 2018-September 2020
   * Research topics: Predictive computational modeling and deep learning accelerated sensitivity analysis/uncertainty quantification of multiphysics systems including subsurface flows and energy storage systems
   * Supervisor: Prof. [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
   * Affiliation: [Department of Energy Resources Engineering](https://earth.stanford.edu/ere)
