@@ -61,8 +61,9 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
 ## Skills
 
 * **Computing**: 
-  * Programming languages: C++, Python, Fortran, MATLAB
-  * Unix/Linux, basic HPC, Sublime Text, LaTex, Markdown
+  * Programming languages: C/C++ (basic), Fortran (basic), Python (intermediate) including NumPy and SciPy, MATLAB (intermediate)
+  * Unix/Linux, basic HPC, AWS
+  * Windows, Mac OS and Linux  
 * **Numerical and Statistical Methods/Software Packages**:
   * Finite difference/volume
   * Higher-order methods
@@ -72,14 +73,18 @@ of novel materials and the design of energy storage devices such as Li-Ion batte
   * Statistical mechanics
   * Monte Carlo simulation, stochastic collocation
   * Applied probability and Uncertainty quantification
-  * COMSOL (multiphysics software)
+  * Software packages: COMSOL (multiphysics), OpenFOAM (multiphysics), FEniCS (finite element)
 * **Deep Learning**:
-  * Software: Google's Tensorflow 2, NumPy
-  * Basic knowledge of the main types of neural networks (NNs) via self-study of online courses (Stanford CS231n (Convolutional NNs) and CS221 (Artifical Intelligence), Coursera (Deep Learning Specialization))
-  * Physics-informed machine learning research
+  * Software: PyTorch (preferred), Tensorflow 2 (basic)
+  * Operator learning (Fourier Neural Operator, DeepONet)
+  * Basics of standard neural networks (CNN, RNN, etc.) via self-study of online courses (Stanford CS231n (Convolutional NNs) and CS221 (Artifical Intelligence), Coursera (Deep Learning Specialization))
+  * Physics-informed machine learning (e.g., PINN)
+* **Editing/Presentation**:
+  * Sublime Text, LaTex (including Beamer), Markdown
+  * Word, PowerPoint, Keynote
 * **Written/Oral Communication and Leadership**:
-  * Paper/funding proposal writing and peer review of articles
-  * Interdisciplinary teamwork, student research supervision
+  * Preparation and peer review of scientific manuscripts
+  * Interdisciplinary teamwork and student/intern research supervision both in industry and academia
   * Project presentations at international scientific conferences
 
 
