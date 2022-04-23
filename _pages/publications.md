@@ -10,7 +10,7 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 [Accelerating Part-Scale Simulation in Liquid Metal Jet Additive Manufacturing via Operator Learning](https://arxiv.org/abs/2202.03665)
 
-<b>S. Taverniers</b>, S. Korneev, K.M. Pietrzyk, and M. Behandish
+<b>S. Taverniers</b>, S. Korneev, K.M. Pietrzyk, and M. Behandish.
 
 ## 2021
 
