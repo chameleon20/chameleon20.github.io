@@ -6,3 +6,5 @@ collection: portfolio
 ---
 
 <img src='/images/moving_subdomain.png'>  
+
+<img src='/images/pred_error.png'>  
