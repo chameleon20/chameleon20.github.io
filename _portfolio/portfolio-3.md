@@ -1,8 +1,8 @@
 ---
-title: "Global sensitivity analysis for design accelerated by Deep Neural Networks (DNNs)"
-excerpt: "I worked on developing DNN approaches to accelerate sensitivity studies and uncertainty quantification for design of multiscale systems.<br/><img src='/images/NN.png'>"
-date: 2022-01-01
+title: "Accelerating Part-Scale Simulation in Liquid Metal Jet Additive Manufacturing via Operator Learning"
+excerpt: "I worked on developing an approach for speeding up quality prediction for 3D printed parts generated through liquid metal jetting by using operator learning to predict the mapping between initial and final states of droplet depositions in a moving subdomain approach.<br/><img src='/images/moving_subdomain.png'>"
+date: 2022-04-01
 collection: portfolio
 ---
 
-<img src='/images/GINN.png'>  
+<img src='/images/moving_subdomain.png'>  
