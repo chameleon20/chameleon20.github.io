@@ -8,13 +8,13 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 ## 2022
 
-[Accelerating Part-Scale Simulation in Liquid Metal Jet Additive Manufacturing via Operator Learning]
+[Accelerating Part-Scale Simulation in Liquid Metal Jet Additive Manufacturing via Operator Learning](https://arxiv.org/abs/2202.03665)
 
 <b>S. Taverniers</b>, S. Korneev, K.M. Pietrzyk, and M. Behandish
 
 ## 2021
 
-[A localized artificial diffusivity approach inspired by TVD schemes and its consistent application to compressible flows]
+[A localized artificial diffusivity approach inspired by TVD schemes and its consistent application to compressible flows](http://web.stanford.edu/group/ctr/ResBriefs/2021/16_Mirjalili.pdf)
 
 S. Mirjalili, <b>S. Taverniers</b>, H. Collis, M. Behandish, and A. Mani. 
 
