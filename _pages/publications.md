@@ -1,5 +1,5 @@
 ---
-title: "Journal Publications"
+title: "Journal Publications and Selected Technical Reports and Conference Proceedings "
 permalink: /publications/
 author_profile: true
 ---
@@ -41,6 +41,10 @@ E.J. Hall, <b>S. Taverniers</b>, M.A. Katsoulakis, and D.M. Tartakovsky.
 [Two-way coupled Cloud-In-Cell modeling of non-isothermal particle-laden flows: A Subgrid Particle-Averaged Reynolds Stress-Equivalent (SPARSE) formulation](https://doi.org/10.1016/j.jcp.2019.01.001)  
 
 <b>S. Taverniers</b>, H.S. Udaykumar, and G.B. Jacobs.
+
+[Multi-scale Simulation of the Interaction of a Shock Wave and a Cloud of Particles](https://link.springer.com/chapter/10.1007/978-3-319-91017-8_60)
+
+<b>S. Taverniers</b>, G.B. Jacobs, V. Fountoulakis, O. Sen and H.S. Udaykumar.
 
 ## 2017
 
