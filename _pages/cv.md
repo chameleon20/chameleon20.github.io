@@ -21,7 +21,7 @@ author_profile: true
 * Intelligent Systems Lab (ISL) Team Award, 2022
   <br>[PARC, a Xerox Company](https://www.parc.com/)   
 
-* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
+* Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017
   <br>[University of California San Diego](https://ucsd.edu/)
 
 <!---* College of Engineering Dean's Fellowship, 2009-2010  
