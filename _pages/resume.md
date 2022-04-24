@@ -73,7 +73,7 @@ Significant experience in developing **numerical codes** for a broad array of
   * Statistical mechanics
   * Monte Carlo simulation, stochastic collocation
   * Applied probability and Uncertainty quantification
-  * Software packages: COMSOL (multiphysics), OpenFOAM (multiphysics), FEniCS (finite element)
+  * Software packages: COMSOL (multiphysics), OpenFOAM (multiphysics), FEniCS (finite element), Mathematica
 * **Deep Learning**:
   * Software: PyTorch (preferred), Tensorflow 2 (basic)
   * Operator learning (Fourier Neural Operator, DeepONet)
