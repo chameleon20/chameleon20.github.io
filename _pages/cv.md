@@ -24,8 +24,8 @@ author_profile: true
 * Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017  
   <br>[University of California San Diego](https://ucsd.edu/)
 
-* College of Engineering Dean's Fellowship, 2009-2010  
-  <br>[University of Michigan Ann Arbor](https://umich.edu/)
+<!---* College of Engineering Dean's Fellowship, 2009-2010  
+  <br>[University of Michigan Ann Arbor](https://umich.edu/)--->
 
 ## Work Experience in Industry
 
