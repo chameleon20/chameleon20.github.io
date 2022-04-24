@@ -15,6 +15,7 @@ I'm S&#248;ren, a **computational scientist** currently a member of research sta
 One of the goals I am pursuing is to be at the forefront of **intertwining traditional machine learning and physics-based modeling**, a hybrid approach with the promise of delivering groundbreaking advances in science and technology by combining traditional techniques built on a rigorous mathematical/physical foundation with recent advances in deep learning and neural operators. Fast surrogate models resulting from this new paradigm combined with forward and inverse UQ are essential ingredients for enabling accurate, yet computationally viable ways of achieving **fully-predictive scientific computing**.
 
 In my spare time, I may find myself contemplating about the mysteries of the Universe and wondering when Quantum Mechanics and Einstein's theory of General Relativity will finally be reconciled... in the process hopefully revealing the answers to deep questions like:
+
 What happened before the Big Bang?  
 When did time start?
 
