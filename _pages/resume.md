@@ -12,9 +12,9 @@ author_profile: true
 Significant experience in developing **numerical codes** for a broad array of
 **physics/engineering problems** and **deep learning (DL) / uncertainty quantification (UQ) tools**
 
+* Contribution to design and testing of a novel computational model for simulation of compressible flows involving shocks and contact discontinuities using a **localized artificial diffusivity (LAD)** approach.
 * Use of **operator learning** to predict initial-to-final state mapping of droplet deposition in a moving subdomain approach for generating **3D printed parts** in order to accelerate part-level quality prediction.
-* Construction of **surrogate models** based on **physics-informed machine learning (ML)** and **deep neural networks (DNNs)** for accelerating the discovery. 
-of novel materials and the design of energy storage devices such as Li-Ion batteries and supercapacitors.
+* Construction of **surrogate models** based on **physics-informed machine learning (ML)** and **deep neural networks (DNNs)** for accelerating the discovery of novel materials and the design of energy storage devices such as Li-Ion batteries and supercapacitors.
 * Design and implementation of **novel Monte Carlo-based solvers** to accelerate predictive modeling/UQ for multiphase flows in subsurface phenomena.
 * Development of numerical solvers for a wide range of **nonlinear systems with inherent uncertainty or random forcing**.
 * Construction of **innovative models for shocked particle-laden flows** that enable process-scale, predictive simulations of high-speed applications ranging from dust explosions to engines for hypersonic propulsion systems.
