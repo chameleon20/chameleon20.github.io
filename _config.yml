@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "S&#248;ren Taverniers"
   avatar           : "profile.png"
-  bio              : "Computational scientist Member of research staff at PARC, a Xerox Company"
+  bio              : "Computational scientist"
   location         : "Palo Alto, CA" 
-  employer         :
+  employer         : "Member of research staff at PARC, a Xerox Company"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=evd0C28AAAAJ&hl=en"
   email            :
