@@ -13,7 +13,7 @@ author_profile: true
 * M.S. in **Engineering Physics**, [University of California San Diego (UCSD)](https://ucsd.edu/), USA, 2012
 * M.S. in **Physics**, [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/), Belgium, 2006 (*Cum Laude*)
 
-## Selected Honors and Awards
+## Selected Awards and Honors
 
 * Intelligent Systems Lab (ISL) Individual Award, 2022
   <br>[PARC, a Xerox Company](https://www.parc.com/)   
