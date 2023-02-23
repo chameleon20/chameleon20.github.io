@@ -10,14 +10,14 @@ redirect_from:
 
 Hello and welcome to my personal website! <!---powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com)--->
 
-I'm S&#248;ren, a <span style="color:#6EB9AD">**computational scientist**</span> and currently a member of research staff at [PARC, a Xerox Company](https://www.parc.com). Throughout my academic and professional career, I have been working on a host of challenging <span style="color:#6EB9AD">**multi-scale and multi-physics problems**</span> with applications ranging from shocked-particle laden flows to 3D printing. I am interested in <span style="color:#6EB9AD">**efficient, predictive modeling**</span> of these systems by utilizing tools from <span style="color:#6EB9AD">**uncertainty quantification (UQ)**</span>, <span style="color:#6EB9AD">**deep learning**</span>, high-performance computing (like PETSc and AWS), among others.
+I'm S&#248;ren, a <span style="color:#6EB9AD">**computational scientist**</span> and currently a member of research staff at [PARC, a Xerox Company](https://www.parc.com). Throughout my academic and professional career, I have been working on a host of challenging <span style="color:#6EB9AD">**multi-scale and multi-physics problems**</span> with applications ranging from shocked-particle laden flows to 3D printing. I am interested in <span style="color:#6EB9AD">**efficient, predictive modeling**</span> of these systems by utilizing tools from <span style="color:#6EB9AD">**uncertainty quantification (UQ)**</span>, <span style="color:#6EB9AD">**deep learning**</span>, and high-performance computing, among others.
 
-One of the goals I am pursuing is to be at the forefront of <span style="color:#6EB9AD">**intertwining traditional machine learning and physics-based modeling**</span>, a hybrid approach with the promise of delivering groundbreaking advances in science and technology by combining traditional techniques built on a rigorous mathematical/physical foundation with recent advances in deep learning and neural operators. Fast surrogate models resulting from this new paradigm combined with forward and inverse UQ are essential ingredients for enabling accurate, yet computationally viable ways of achieving <span style="color:#6EB9AD">**fully-predictive scientific computing**</span>.
+My goal is to be at the forefront of <span style="color:#6EB9AD">**scientific machine learning**</span> where a combination of <span style="color:#6EB9AD">**traditional physics-based modeling**</span> and novel <span style="color:#6EB9AD">**data-driven approaches**</span> such as neural operators can deliver groundbreaking advances in science and technology. Such hybrid approaches enable more efficient forward and inverse UQ and are thus essential for achieving computationally viable <span style="color:#6EB9AD">**predictive scientific computing**</span>.
 
-In my spare time, I may find myself contemplating about the <span style="color:#6EB9AD">**mysteries of the Universe**</span> and wondering when Quantum Mechanics and Einstein's theory of General Relativity will finally be reconciled... in the process hopefully revealing the answers to deep questions like:
+In my spare time, I may find myself contemplating about the <span style="color:#6EB9AD">**mysteries of the Universe**</span> and wondering when Quantum Mechanics and Einstein's theory of General Relativity will finally be reconciled... in the process hopefully revealing the answers to deep questions such as:
 
 What happened before the Big Bang?  
-When did time start?
+What is the true nature of time?
 
 [<img src='/images/Universe.jpg'>](https://map.gsfc.nasa.gov/) 
 
