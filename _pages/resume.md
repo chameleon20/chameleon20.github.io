@@ -21,11 +21,15 @@ Significant experience in developing **numerical codes** for a broad array of
 
 ## Current Employment
 
-### [PARC, A XEROX COMPANY](https://www.parc.com) - Palo Alto, CA, USA
+### [PARC, A PART OF SRI INTERNATIONAL](https://www.parc.com) - Palo Alto, CA, USA
 
-* Position: **Member of Research Staff**, October 2020-Present
+* Position: **Research Scientist**, May 2023-Present
 
 ## Past Employment
+
+### [PARC, A XEROX COMPANY](https://www.parc.com) - Palo Alto, CA, USA
+
+* Position: **Member of Research Staff**, October 2020-April 2023
 
 ### [DEPARTMENT OF ENERGY RESOURCES ENGINEERING](https://earth.stanford.edu/ere), [STANFORD UNIVERSITY](https://www.stanford.edu) - Stanford, CA, USA
 
