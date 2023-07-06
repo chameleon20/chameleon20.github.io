@@ -8,6 +8,10 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 ## 2023
 
+[A finite element method to compute the damping rate of oscillating fluids inside microfluidic nozzles](https://arxiv.org/abs/2307.00094)
+
+<b>S. Taverniers</b>, S. Korneev, C. Somarakis, and A.J. Lew.
+
 [Inverse asymptotic treatment: capturing discontinuities in fluid flows via equation modification](https://arxiv.org/abs/2302.03898)
 
 S. Mirjalili, <b>S. Taverniers</b>, H. Collis, M. Behandish, and A. Mani.
