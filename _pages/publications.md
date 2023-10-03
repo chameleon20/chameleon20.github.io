@@ -12,7 +12,7 @@ For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a c
 
 <b>S. Taverniers</b>, S. Korneev, C. Somarakis, and A.J. Lew.
 
-[Inverse asymptotic treatment: capturing discontinuities in fluid flows via equation modification](https://arxiv.org/abs/2302.03898)
+[Inverse asymptotic treatment: Capturing discontinuities in fluid flows via equation modification](https://doi.org/10.1016/j.jocs.2023.102141)
 
 S. Mirjalili, <b>S. Taverniers</b>, H. Collis, M. Behandish, and A. Mani.
 
