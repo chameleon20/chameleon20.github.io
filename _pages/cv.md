@@ -29,7 +29,9 @@ author_profile: true
 
 ## Work Experience in Industry
 
-* **Member of Research Staff**, [PARC, a Xerox Company](https://www.parc.com), October 2020-Present
+* **Research Scientist**, [PARC, a part of SRI International](https://www.parc.com), May 2023-Present
+
+* **Member of Research Staff**, [PARC, a Xerox Company](https://www.parc.com), April 2023-Present
   
 ## Work Experience in Academia and Government Labs
 
