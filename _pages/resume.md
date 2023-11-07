@@ -12,6 +12,7 @@ author_profile: true
 Significant experience in developing **numerical codes** for a broad array of
 **physics/engineering problems** and **deep learning (DL) / uncertainty quantification (UQ) tools**
 
+* Development of a **finite-element based method** to compute the damping rate of **fluid oscillations in microfluidic nozzles** that is orders of magnitude faster than computational fluid dynamics (CFD) approaches. 
 * Contribution to design and testing of a novel computational model for simulation of compressible flows involving shocks and contact discontinuities using a **localized artificial diffusivity (LAD)** approach.
 * Use of **operator learning** to predict initial-to-final state mapping of droplet deposition in a moving subdomain approach for generating **3D printed parts** in order to accelerate part-level quality prediction.
 * Construction of **surrogate models** based on **physics-informed machine learning (ML)** and **deep neural networks (DNNs)** for accelerating the discovery of novel materials and the design of energy storage devices such as Li-Ion batteries and supercapacitors.
