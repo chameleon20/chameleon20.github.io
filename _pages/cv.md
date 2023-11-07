@@ -31,7 +31,7 @@ author_profile: true
 
 * **Research Scientist**, [PARC, a part of SRI International](https://www.parc.com), May 2023-Present
 
-* **Member of Research Staff**, [PARC, a Xerox Company](https://www.parc.com), April 2023-Present
+* **Member of Research Staff**, [PARC, a Xerox Company](https://www.parc.com), October 2020-April 2023
   
 ## Work Experience in Academia and Government Labs
 
