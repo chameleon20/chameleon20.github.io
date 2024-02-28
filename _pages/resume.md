@@ -22,7 +22,7 @@ Significant experience in developing **numerical codes** for a broad array of
 
 ## Current Employment
 
-### [PARC, A PART OF SRI INTERNATIONAL](https://www.parc.com) - Palo Alto, CA, USA
+### [PARC, A PART OF SRI INTERNATIONAL (NOW: FUTURE CONCEPTS DIVISION, SRI INTERNATIONAL)](https://www.sri.com/research/future-concepts-division/) - Palo Alto, CA, USA
 
 * Position: **Research Scientist**, May 2023-Present
 
