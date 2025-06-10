@@ -16,13 +16,13 @@ author_profile: true
 ## Selected Awards and Honors
 
 * Intelligent Systems Lab (ISL) Peer Award, 2023
-  <br>[PARC, a part of SRI International](https://www.parc.com/)   
+  <br>[Future Concepts Division, SRI International](https://www.sri.com/research/future-concepts-division/)   
 
 * Intelligent Systems Lab (ISL) Individual Award, 2022
-  <br>[PARC, a Xerox Company](https://www.parc.com/)   
+  <br>[PARC, a Xerox Company](https://en.wikipedia.org/wiki/PARC_(company))   
 
 * Intelligent Systems Lab (ISL) Team Award, 2022
-  <br>[PARC, a Xerox Company](https://www.parc.com/)   
+  <br>[PARC, a Xerox Company](https://en.wikipedia.org/wiki/PARC_(company))   
 
 * Nomination for Chancellor’s Dissertation Medal by MAE Department, 2017
   <br>[University of California San Diego](https://ucsd.edu/)
@@ -32,9 +32,9 @@ author_profile: true
 
 ## Work Experience in Industry
 
-* **Research Scientist**, [PARC, a part of SRI International](https://www.parc.com), May 2023-June 2024
+* **Research Scientist**, [Future Concepts Division, SRI International](https://www.sri.com/research/future-concepts-division/), May 2023-June 2024
 
-* **Member of Research Staff**, [PARC, a Xerox Company](https://www.parc.com), October 2020-April 2023
+* **Member of Research Staff**, [PARC, a Xerox Company](https://en.wikipedia.org/wiki/PARC_(company)), October 2020-April 2023
   
 ## Work Experience in Academia and Government Labs
 
