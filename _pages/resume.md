@@ -24,7 +24,7 @@ Significant experience in developing **numerical codes** for a broad array of **
 
 ### [ENERGY SCIENCE & ENGINEERING DEPARTMENT](https://ese.stanford.edu/) - Stanford, CA, USA
 
-* Position: **Research Scientist**, September 2024-Present
+* Position: **Physical Science Research Scientist**, September 2024-Present
 * Duties: 
   * Development of a **multifidelity Monte Carlo** framework for fast, accurate estimation of **cumulative distribution functions** of quantities of interest in **induced seismicity**. 
   * Integration of fast surrogate models based on **graph neural networks** into this multifidelity approach.

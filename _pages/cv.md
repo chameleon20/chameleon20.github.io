@@ -38,6 +38,11 @@ author_profile: true
   
 ## Work Experience in Academia and Government Labs
 
+* **Physical Science Research Scientist**, [Stanford University](https://www.stanford.edu), September 2018-September 2020
+  * Research topics: Predictive computational modeling and deep learning accelerated uncertainty quantification for induced seismicity during $\mathrm{CO}_2$ injection into the subsurface
+  * Supervisor: Prof. [Hamdi A. Tchelepi](https://profiles.stanford.edu/hamdi-tchelepi)
+  * Affiliation: [Energy Science & Engineering Department](https://ese.stanford.edu/)
+
 * **Postdoctoral Scholar**, [Stanford University](https://www.stanford.edu), September 2018-September 2020
   * Research topics: Predictive computational modeling and deep learning accelerated sensitivity analysis/uncertainty quantification of multiphysics systems including subsurface flows and energy storage systems
   * Supervisor: Prof. [Daniel M. Tartakovsky](https://profiles.stanford.edu/daniel-tartakovsky)
