@@ -9,24 +9,32 @@ author_profile: true
 
 ## Main Accomplishments
 
-Significant experience in developing **numerical codes** for a broad array of
-**physics/engineering problems** and **deep learning (DL) / uncertainty quantification (UQ) tools**
+Significant experience in developing **numerical codes** for a broad array of **physics/engineering problems** and **deep learning (DL) / uncertainty quantification (UQ) tools**
 
+* Development of a computationally efficient **Python framework** to predict **$\mathrm{CO}_2$-injection induced seismicity** using **multifidelity Monte Carlo** and **graph neural networks (GNNs)**. 
 * Development of a **finite-element based method** to compute the damping rate of **fluid oscillations in microfluidic nozzles** that is orders of magnitude faster than computational fluid dynamics (CFD) approaches. 
 * Contribution to design and testing of a novel computational model for simulation of compressible flows involving shocks and contact discontinuities using a **localized artificial diffusivity (LAD)** approach.
 * Use of **operator learning** to predict initial-to-final state mapping of droplet deposition in a moving subdomain approach for generating **3D printed parts** in order to accelerate part-level quality prediction.
-* Construction of **surrogate models** based on **physics-informed machine learning (ML)** and **deep neural networks (DNNs)** for accelerating the discovery of novel materials and the design of energy storage devices such as Li-Ion batteries and supercapacitors.
+* Construction of **surrogate models** based on **physics-informed machine learning (ML)** and **deep neural networks** for accelerating the discovery of novel materials and the design of energy storage devices such as Li-Ion batteries and supercapacitors.
 * Design and implementation of **novel Monte Carlo-based solvers** to accelerate predictive modeling/UQ for multiphase flows in subsurface phenomena.
 * Development of numerical solvers for a wide range of **nonlinear systems with inherent uncertainty or random forcing**.
 * Construction of **innovative models for shocked particle-laden flows** that enable process-scale, predictive simulations of high-speed applications ranging from dust explosions to engines for hypersonic propulsion systems.
 
 ## Current Employment
 
-### [PARC, A PART OF SRI INTERNATIONAL (NOW: FUTURE CONCEPTS DIVISION, SRI INTERNATIONAL)](https://www.sri.com/research/future-concepts-division/) - Palo Alto, CA, USA
+### [ENERGY SCIENCE & ENGINEERING DEPARTMENT](https://ese.stanford.edu/) - Stanford, CA, USA
 
-* Position: **Research Scientist**, May 2023-Present
+* Position: **Research Scientist**, September 2024-Present
+* Duties: 
+  * Development of a **multifidelity Monte Carlo** framework for fast, accurate estimation of **cumulative distribution functions** of quantities of interest in **induced seismicity**. 
+  * Integration of fast surrogate models based on **graph neural networks** into this multifidelity approach.
+  * Guidance of current PhD students working on multilevel/multifidelity approaches in multiphysics problems.
 
 ## Past Employment
+
+### [FUTURE CONCEPTS DIVISION, SRI INTERNATIONAL)](https://www.sri.com/research/future-concepts-division/) - Palo Alto, CA, USA
+
+* Position: **Research Scientist**, May 2023-June 2024
 
 ### [PARC, A XEROX COMPANY](https://www.parc.com) - Palo Alto, CA, USA
 
@@ -67,7 +75,7 @@ Significant experience in developing **numerical codes** for a broad array of
 
 * **Computing**: 
   * Programming languages: C/C++ (basic), Fortran (basic), Python (intermediate) including NumPy and SciPy, MATLAB (intermediate)
-  * Unix/Linux, basic HPC, AWS
+  * Unix/Linux, basic HPC, AWS, GitHub
   * Windows, Mac OS and Linux  
 * **Numerical and Statistical Methods/Software Packages**:
   * Finite difference/volume
@@ -83,6 +91,7 @@ Significant experience in developing **numerical codes** for a broad array of
   * Software: PyTorch (preferred), Tensorflow 2 (basic)
   * Operator learning (Fourier Neural Operator, DeepONet)
   * Basics of standard neural networks (CNN, RNN, etc.) via self-study of online courses (Stanford CS231n (Convolutional NNs) and CS221 (Artifical Intelligence), Coursera (Deep Learning Specialization))
+  * Basics of graph neural networks (GNNs) via self-study of online courses (Stanford [CS224W](https://web.stanford.edu/class/cs224w/)) and project work ($\mathrm{CO}_2$-injection induced seismicity)  
   * Physics-informed machine learning (e.g., PINN)
 * **Editing/Presentation**:
   * Sublime Text, LaTex (including Beamer), Markdown
