@@ -36,7 +36,7 @@ Significant experience in developing **numerical codes** for a broad array of **
 
 * Position: **Research Scientist**, May 2023-June 2024
 
-### [PARC, A XEROX COMPANY](https://www.parc.com) - Palo Alto, CA, USA
+### [PARC, A XEROX COMPANY](https://en.wikipedia.org/wiki/PARC_(company)) - Palo Alto, CA, USA
 
 * Position: **Member of Research Staff**, October 2020-April 2023
 

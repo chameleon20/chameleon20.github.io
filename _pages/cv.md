@@ -50,7 +50,7 @@ author_profile: true
 
 * **Research Specialist I**, [San Diego State University Research Foundation](https://www.foundation.sdsu.edu/), October 2016-July 2018
   * Research topic: Modeling and efficient simulation of shocked particle-laden flows
-  * Supervisor: Prof. [Gustaaf B, Jacobs](http://attila.sdsu.edu/~jacobs/index.html)
+  * Supervisor: Prof. [Gustaaf B, Jacobs](https://aerospace.sdsu.edu/people/gustaaf-jacobs)
   * Affiliation: [Department of Aerospace Engineering](https://aerospace.sdsu.edu/)
   
 * **Graduate Student Researcher**, [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/), August 2014-June 2015
