@@ -14,11 +14,11 @@ I'm S&#248;ren, a <span style="color:#52adc8">**computational scientist**</span>
 
 I want to be at the forefront of <span style="color:#52adc8">**scientific machine learning**</span>, where a combination of <span style="color:#52adc8">**traditional physics-based modeling**</span> and novel <span style="color:#52adc8">**data-driven solutions**</span> such as neural operators and graph neural networks can deliver groundbreaking advances in science and technology. Such hybrid approaches enable more efficient forward and inverse UQ and are thus essential for achieving computationally viable <span style="color:#52adc8">**predictive scientific computing**</span>.
 
+Please check out some of my past projects under the [Portfolio tab](https://chameleon20.github.io/portfolio/) and a list of publications under the [Publications tab](https://chameleon20.github.io/publications/). 
+
 In my spare time, I enjoy hiking and exploring the big cultural hubs of this planet. On occasion, I also find myself contemplating about the <span style="color:#52adc8">**mysteries of the Universe**</span> and wondering when Quantum Mechanics and Einstein's theory of General Relativity will finally be reconciled... 
 
 [<img src='/images/Universe.jpg'>](https://map.gsfc.nasa.gov/) 
-
-Please check out some of my past projects under the [Portfolio tab](https://chameleon20.github.io/portfolio/) and a list of publications under the [Publications tab](https://chameleon20.github.io/publications/). 
 
 Have a great day!
 
