@@ -32,13 +32,13 @@ author_profile: true
 
 ## Work Experience in Industry
 
-* **Research Scientist**, [PARC, a part of SRI International](https://www.parc.com), May 2023-Present
+* **Research Scientist**, [PARC, a part of SRI International](https://www.parc.com), May 2023-June 2024
 
 * **Member of Research Staff**, [PARC, a Xerox Company](https://www.parc.com), October 2020-April 2023
   
 ## Work Experience in Academia and Government Labs
 
-* **Physical Science Research Scientist**, [Stanford University](https://www.stanford.edu), September 2018-September 2020
+* **Physical Science Research Scientist**, [Stanford University](https://www.stanford.edu), September 2024-Present
   * Research topics: Predictive computational modeling and deep learning accelerated uncertainty quantification for induced seismicity during $\mathrm{CO}_2$ injection into the subsurface
   * Supervisor: Prof. [Hamdi A. Tchelepi](https://profiles.stanford.edu/hamdi-tchelepi)
   * Affiliation: [Energy Science & Engineering Department](https://ese.stanford.edu/)

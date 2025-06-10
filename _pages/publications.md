@@ -6,11 +6,17 @@ author_profile: true
 
 For full citations, see the [CV tab](https://chameleon20.github.io/cv/). For a complete publication record, visit my [Google Scholar](https://scholar.google.com/citations?user=evd0C28AAAAJ&hl=en) page.
 
+## 2025
+
+[A finite element method to compute the damping rate and frequency of oscillating fluids inside microfluidic nozzles](https://doi.org/10.1002/fld.5373)
+
+<b>S. Taverniers</b>, S. Korneev, C. Somarakis, M. Behandish, and A.J. Lew.
+
 ## 2023
 
-[A finite element method to compute the damping rate of oscillating fluids inside microfluidic nozzles](https://arxiv.org/abs/2307.00094)
+[A multi-physics compiler for generating numerical solvers from differential equations](https://arxiv.org/abs/2311.16404)
 
-<b>S. Taverniers</b>, S. Korneev, C. Somarakis, and A.J. Lew.
+J.T. Maxwell III, M. Behandish, and <b>S. Taverniers</b>.
 
 [Inverse asymptotic treatment: Capturing discontinuities in fluid flows via equation modification](https://doi.org/10.1016/j.jocs.2023.102141)
 
@@ -18,7 +24,7 @@ S. Mirjalili, <b>S. Taverniers</b>, H. Collis, M. Behandish, and A. Mani.
 
 ## 2022
 
-[Accelerating Part-Scale Simulation in Liquid Metal Jet Additive Manufacturing via Operator Learning](https://arxiv.org/abs/2202.03665)
+[Accelerating part-scale simulation in liquid metal jet additive manufacturing via operator learning](https://arxiv.org/abs/2202.03665)
 
 <b>S. Taverniers</b>, S. Korneev, K.M. Pietrzyk, and M. Behandish.
 
