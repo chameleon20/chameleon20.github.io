@@ -32,7 +32,7 @@ Significant experience in developing **numerical codes** for a broad array of **
 
 ## Past Employment
 
-### [FUTURE CONCEPTS DIVISION, SRI INTERNATIONAL)](https://www.sri.com/research/future-concepts-division/) - Palo Alto, CA, USA
+### [FUTURE CONCEPTS DIVISION, SRI INTERNATIONAL](https://www.sri.com/research/future-concepts-division/) - Palo Alto, CA, USA
 
 * Position: **Research Scientist**, May 2023-June 2024
 
