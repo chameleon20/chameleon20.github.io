@@ -15,8 +15,8 @@ author_profile: true
 
 ## Selected Awards and Honors
 
-* Intelligent Systems Lab (ISL) Peer Award, 2023
-  <br>[Future Concepts Division, SRI International](https://www.sri.com/research/future-concepts-division/)   
+<!-- * Intelligent Systems Lab (ISL) Peer Award, 2023
+  <br>[Future Concepts Division, SRI International](https://www.sri.com/research/future-concepts-division/) --> 
 
 * Intelligent Systems Lab (ISL) Individual Award, 2022
   <br>[PARC, a Xerox Company](https://en.wikipedia.org/wiki/PARC_(company))   
