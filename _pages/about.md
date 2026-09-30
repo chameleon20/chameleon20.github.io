@@ -16,7 +16,7 @@ I want to be at the forefront of <span style="color:#52adc8">**agentic AI**</spa
 
 Please check out some of my past projects under the [Portfolio tab](https://chameleon20.github.io/portfolio/) and a list of publications under the [Publications tab](https://chameleon20.github.io/publications/). 
 
-In my spare time, I enjoy hiking and exploring the big cultural hubs of this planet. On occasion, I also find myself contemplating about the <span style="color:#52adc8">**mysteries of the Universe**</span> and wondering when Quantum Mechanics and Einstein's theory of General Relativity will finally be reconciled... 
+In my spare time, I enjoy hiking and exploring the big cultural hubs of this planet. I also find myself contemplating about the role of <span style="color:#52adc8">**black holes**</span> in the evolution of the Universe, and keeping track of current efforts on reconciling Quantum Mechanics and Einstein's theory of General Relativity. 
 
 [<img src='/images/Universe.jpg'>](https://map.gsfc.nasa.gov/) 
 
